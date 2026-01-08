@@ -49,9 +49,6 @@ I love working with SQL, Python, Excel, and BI tools like Power BI to build dash
   <a href="https://github.com/prashant-sahoo/atliq-hardware-sales-analytics" target="_blank">
     <img src="https://img.shields.io/badge/AtliQ%20Hardware%20Sales%20Analytics-FF6F61?style=flat&logo=airbrake&logoColor=white" alt="AtliQ Hardware Sales Analytics"/>
   </a>
-  <a href="https://github.com/prashant-sahoo/swiggy-order-insights" target="_blank">
-    <img src="https://img.shields.io/badge/Swiggy%20Order%20Insights-FC8019?style=flat&logo=swiggy&logoColor=white" alt="Swiggy Order Insights"/>
-  </a>
   <a href="https://github.com/prashant-sahoo/amazon-marketplace-analytics" target="_blank">
     <img src="https://img.shields.io/badge/Amazon%20Marketplace%20Analytics-FF9900?style=flat&logo=alamy&logoColor=white" alt="Amazon Marketplace Analytics"/>
   </a>
