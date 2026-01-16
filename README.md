@@ -46,14 +46,14 @@ I love working with SQL, Python, Excel, and BI tools like Power BI to build dash
 ## 📌 Pinned Projects
 
 <p align="left">
-  <a href="https://github.com/prashant-sahoo/atliqhw-sales-analytics" target="_blank">
-    <img src="https://img.shields.io/badge/AtliQ%20Hardware%20Sales%20Analytics-FF6F61?style=flat&logo=airbrake&logoColor=white" alt="AtliQ Hardware Sales Analytics"/>
-  </a>
   <a href="https://github.com/prashant-sahoo/amazon-sales-analytics" target="_blank">
     <img src="https://img.shields.io/badge/Amazon%20Marketplace%20Analytics-FF9900?style=flat&logo=alamy&logoColor=white" alt="Amazon Marketplace Analytics"/>
   </a>
   <a href="https://github.com/prashant-sahoo/business-insights-360" target="_blank">
     <img src="https://img.shields.io/badge/Business%20Insights%20360-4CAF50?style=flat&logo=buefy&logoColor=white" alt="Business Insights 360"/>
+  </a>
+  <a href="https://github.com/prashant-sahoo/atliqgrands-revenue-analysis" target="_blank">
+    <img src="https://img.shields.io/badge/AtliQ%20Grands%20Revenue%20Analytics-FF6F61?style=flat&logo=hotels.com&logoColor=white" alt="AtliQ Grands Revenue Analytics"/>
   </a>
 </p>
 
