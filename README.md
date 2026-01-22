@@ -55,6 +55,9 @@ I love working with SQL, Python, Excel, and BI tools like Power BI to build dash
   <a href="https://github.com/prashant-sahoo/atliqgrands-revenue-analysis" target="_blank">
     <img src="https://img.shields.io/badge/AtliQ%20Grands%20Revenue%20Analytics-FF6F61?style=flat&logo=hotels.com&logoColor=white" alt="AtliQ Grands Revenue Analytics"/>
   </a>
+  <a href="https://github.com/prashant-sahoo/atliqmart-supplychain-analysis" target="_blank">
+    <img src="https://img.shields.io/badge/AtliQ%20Mart%20Supply%20Chain%20Analytics-1E90FF?style=flat&logo=trpc&logoColor=white" alt="AtliQ Marts Supplychain Analytics"/>
+  </a>
 </p>
 
 ---
