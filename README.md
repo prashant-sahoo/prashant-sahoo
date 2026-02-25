@@ -17,6 +17,9 @@ I love working with SQL, Python, Excel, and BI tools like Power BI to build dash
   <a href="mailto:prasanta.sahoo1892@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <a href="https://codebasics.io/portfolio/Prashant-Kumar-Sahoo" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-4B0082?style=flat&logo=protodotio&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
 ---
@@ -32,6 +35,7 @@ I love working with SQL, Python, Excel, and BI tools like Power BI to build dash
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=plotly&logoColor=white" alt="Matplotlib"/>
   <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=flat&logo=plotly&logoColor=white" alt="Seaborn"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>
 </p>
 
 ---
@@ -39,7 +43,9 @@ I love working with SQL, Python, Excel, and BI tools like Power BI to build dash
 ## 🎓 Certifications
 
 - *Excel – Mother of Business Intelligence* (Codebasics)  
-- *Get Job Ready: Power BI Data Analytics for All Levels 3.0* (Codebasics)    
+- *Get Job Ready: Power BI Data Analytics for All Levels 3.0* (Codebasics)
+- *SQL for Data Analysis* (Codebasics)
+- *Python for Data Analytics* (Codebasics)
 
 ---
 
@@ -57,6 +63,9 @@ I love working with SQL, Python, Excel, and BI tools like Power BI to build dash
   </a>
   <a href="https://github.com/prashant-sahoo/atliqmart-supplychain-analysis" target="_blank">
     <img src="https://img.shields.io/badge/AtliQ%20Mart%20Supply%20Chain%20Analytics-1E90FF?style=flat&logo=trpc&logoColor=white" alt="AtliQ Marts Supplychain Analytics"/>
+  </a>
+  <a href="https://github.com/prashant-sahoo/atliqgrands-analysis-python" target="_blank">
+    <img src="https://img.shields.io/badge/AtliQ%20Grands%20Analysis%20(Python)-6A0DAD?style=flat&logo=python&logoColor=white" alt="AtliQ Grands Analysis"/>
   </a>
 </p>
 
