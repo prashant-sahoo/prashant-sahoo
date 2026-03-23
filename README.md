@@ -33,7 +33,7 @@ I love working with SQL, Python, Excel, and BI tools like Power BI to build dash
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=plotly&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=flat&logo=plotly&logoColor=white" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=flat&logo=sega&logoColor=white" alt="Seaborn"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>
 </p>
