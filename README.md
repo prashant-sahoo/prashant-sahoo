@@ -67,6 +67,9 @@ I love working with SQL, Python, Excel, and BI tools like Power BI to build dash
   <a href="https://github.com/prashant-sahoo/atliqgrands-analysis-python" target="_blank">
     <img src="https://img.shields.io/badge/AtliQ%20Grands%20Analysis%20(Python)-6A0DAD?style=flat&logo=python&logoColor=white" alt="AtliQ Grands Analysis"/>
   </a>
+  <a href="https://github.com/prashant-sahoo/shield-insurance-analytics" target="_blank">
+    <img src="https://img.shields.io/badge/Shield%20Insurance%20Analytics-008080?style=flat&logo=scan&logoColor=white" alt="Shield Insurance Analytics"/>
+  </a>
 </p>
 
 ---
